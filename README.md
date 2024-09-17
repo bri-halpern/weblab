@@ -1,1 +1,1 @@
-https://bri-halpern.github.io/weblab/# weblab
+https://bri-halpern.github.io/weblab/
