@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+   /* if you put the bisque line in comments, it will go back to the fuscia backround */
+    background-color: bisque;
+}
+
+header{
+    background-color: rgb(255,0,0);
+    width: 960px;
+    height: 20px;
+    padding:20px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-right: auto;
+    margin-left:auto;
+    margin-top: -8px;
+    margin-bottom: 50px;
+    margin:0 auto; /*set top and bottom to 0 and left and right to auto*/
+    
+
+
+}
+
+main{
+    background-color: azure;
+    width: 970px;
+    height:auto;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    
+}
+
+footer{
+   
+    width: 970px;
+    height:auto;
+    background-color: blanchedalmond;
+    padding: 20px 20px 20px 20px; /*top bottom left and right*/
+    border-top-width:5px;
+    border-top-color:pink;
+    border-top-style:dotted;
+
+}
+
+h1{
+    background-color: rgba(255, 255, 255,.75);
+    font-family: "Times New Roman" sans-serif;
+}
+p{
+    color: #ffffff;
+}
+h2{
+    color: pink;
+    text-align: right;
+    font-family: cursive;
+}
+li{
+ font-weight: bold;
+}
+ul{
+    background-color: orange;
+}
+ul li{
+    color:green;
+    list-style: none;
+}
+ol{
+    font-weight: lighter;
+    list-style: lower-roman;
+}
+.purple{
+    color:purple;
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+    color:pink
+}
+
+nav a{
+    font-size: 20px;
+    color:chartreuse;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+p{
+    color:blue;
+    font-family: serif;
+    line-height: 30px;
+}
+
+img{
+    margin:10px;
+    border: 10px solid plum;
+    width:200px;
+    height:auto;
+}
